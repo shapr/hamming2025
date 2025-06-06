@@ -1,0 +1,1 @@
+This will have [[https://www.scannedinavian.com/about.html][my]] notes for chapter 1 of [[https://press.stripe.com/the-art-of-doing-science-and-engineering][The Hamming book]].

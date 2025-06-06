@@ -1,2 +1,8 @@
 # hamming2025
 Reading group for "The Art of Doing Science and Engineering"
+# Want to join in?
+Grab a copy of the book, create a subdir with a name you like, put in your notes!
+
+I suggest having one file of notes per chapter, but it's entirely up to you.
+# Previous reading group
+If you want to compare to notes from an earlier reading group, check out https://github.com/shapr/hammingonhamming
