@@ -47,3 +47,44 @@ What's a new field to learn? FPGA dev? 🤔
 Become an autodidact! Teach yourself everything you can!
 
 Human limitations have more effect than technological limitations. (support: Drone use in Ukraine?)
+
+1. history is seldom reported at all accurately, and I have found no
+   two reports of what happened at Los Alamos during WW-II seem to
+   agree.
+2. due to the pace of progress the future is rather disconnected from
+   the past; the presence of the modern computer is an example of the
+   great differences which have arisen.
+
+"Unforeseen technological inventions can completely upset the most careful predictions."
+
+#+begin_src fundamental
+  The drunken sailor who staggers to the left or right with n independent random steps will, on average, end up about √n steps from the origin.
+  If there is a pretty girl in one direction, his steps will go a distance proportional to n.
+#+end_src
+
+"No vision, not much of a future."
+
+Build your own vision! Don't be afraid to change direction when you learn new stuff!
+
+"I devoted 10% of my time to trying to understand what would happen in the future of computing"
+
+- What is possible? (science)
+- What is likely to happen? (engineering)
+- What is desirable to happen? (ethics)
+
+"having a vision is what separates leaders from followers"
+
+#+begin_src fundamental
+  I am preaching the message that, with apparently only one life to live
+  on this earth, you ought to try to make significant contribution to
+  humanity rather than just get along through life comfortably - that
+  the life of trying to achieve excellence in some area is in itself a
+  worthy goal for your life.
+
+  It has often been observed the true gain is in the struggle and not in
+  the achievement - a life without struggle on your part to make
+  yourself excellent is hardly a life worth living.
+#+end_src
+HECK YEAH! You go Hamming!
+
+"The unexamined life is not worth living" -- Socrates
