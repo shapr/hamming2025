@@ -1,0 +1,17 @@
+* preface
+** style
+https://types.pl/@pigworker/114667169465287638
+#+begin_src fundamental
+  The contribution might ostensibly be "we proved this theorem", but the
+  secret real contribution might be how we had the wonderful taste to
+  choose this theorem to prove.
+#+end_src
+
+Style is a thing, though I think it requires a firm understanding of the fundamentals.
+I also believe style can be taught.
+
+Luck favors the prepared mind -- Pasteur
+
+*Teachers should prepare the student for the student's future, not for the teacher's past* -- Hamming
+
+What are the important topics of the future for your field?
