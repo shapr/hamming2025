@@ -1,1 +1,49 @@
 This will have [[https://www.scannedinavian.com/about.html][my]] notes for chapter 1 of [[https://press.stripe.com/the-art-of-doing-science-and-engineering][The Hamming book]].
+
+"You will get out of this course only as much as you put in"
+
+"Education is what, when, and why to do things. Training is how to do it."
+
+"You need to know both what to do, and how to do it."
+
+"Knowledge has doubled every 17 years."
+
+Hypothesis: The US political climate will likely produce a dip in knowledge production.
+How to measure this? count of publications over time? education participation over time?
+Is a record of "breakthroughs" so I could try measuring that over time?
+
+Aha, back of the envelope calculations appear! Are these the same as Fermi estimations?
+- [ ] train Fermi estimations
+- [ ] does detail of the estimation matter?
+  "Having done the calculation, you are much more likely to retain the results in your mind."
+  I suspect that's true for reading about new algorithms or libraries.
+  So, I will learn new patterns better if I immediately use them for something, that makes sense!
+- [ ] Personal todo: try to hack new bloom filter stuff https://dl.acm.org/doi/10.1145/3651890.3672219 into [[https://github.com/shapr/bloohm][bloohm]] ?
+
+
+#+begin_src fundamental
+  Concentrate on fundamentals, at least what /you think/ at the time are
+  fundamentals, and also develop the ability to learn new fields of
+  knowledge when they arise so you will not be left behind, as so many
+  good engineers are in the long run.
+#+end_src
+
+I first read [[http://lambda-the-ultimate.org/node/668][this book]] somewhere between 2005 and 2007, and focussing on the fundamentals has paid off.
+But as mentioned in the "apply what you learn" snippet earlier, you gotta have a balance between learning and doing.
+What's a new field to learn? FPGA dev? 🤔
+
+#+begin_src fundamental
+  I am a veteran of learning enough to get along without at the same
+  time devoting all my effort to learning new topics and thereby not
+  contributing my share to the total effort of the organization.
+#+end_src
+
+#+begin_src fundamental
+  In science if you know what you are doing you should not be doing it.
+
+  In engineering if you do not know what you are doing you should not be doing it.
+#+end_src
+
+Become an autodidact! Teach yourself everything you can!
+
+Human limitations have more effect than technological limitations. (support: Drone use in Ukraine?)
