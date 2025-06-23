@@ -1,0 +1,29 @@
+# Chapter 2
+Analog amplifiers require extreme precision when high amplification is required.
+Digital repeaters aren't amplifiers at all, and thus can send a signal great distances.
+
+Quantization!
+
+"transmission through space is the same as transmission through time"
+Yeah, makes sense to me.
+
+Analog computers still have some advantages and use cases! (ok, but what?)
+
+Integrated chips reduced the cost and size of each electrical connection by an amazing amount.
+The size reduction also reduced the amount of time required for a signal to propagate to the next wire.
+The size reduction also reduced the total heat produced, and thus the cost of cooling.
+
+(what percentage of a laptop's power is spent cooling? desktop? Is there a curve describing the tradeoff?)
+
+The world is moving to an information based society instead of a goods based society.
+
+Computers allow automation of many/most things. But not exactly the same thing!
+It is instead an equivalent product.
+(machine produced fabric is surprisingly different from human produced fabric, [[https://en.wikipedia.org/wiki/Ring_spinning][for example]])
+
+Automating or mechanizing a process requires you to have the
+fundamentals firmly in mind when you design an equivalent.
+(pets vs cattle is an example? hand-configured personal computer ->  kubernetes -> AWS lambda ? )
+
+Science will (has?) become primarily simulation and modelling instead of physical experiments.
+And yet, simulations and models cannot be perfectly accurate!
