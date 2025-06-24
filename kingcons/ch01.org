@@ -1,0 +1,94 @@
+I don't consider myself a _particularly_ sharp individual, a scientist, or an
+engineer though I played at being one for many years, so this should be
+interesting.
+
+"Your scientific training has emphasized the role of words, along with a strong
+belief in _reductionism_, hence to emphasize the possible limitations of
+language I shall take up the topic in several places in the book. I have
+already said 'style' is such a topic." - Hamming
+
+I'm surprised and delighted to encounter such a suggestion so early in the
+text. I'm reminded immediately of my love for Czeslaw Milosz who wrote, "I
+learned early that language does not adhere to what we really are, that we move in a big make-believe which is maintained by books and pages of
+newsprint. And every one of my efforts to say something real ended the same
+way, by my being driven back to the enclosure of form, as if I were a sheep
+straying from the flock." - Unattainable Earth, Pg 32
+
+"As I will several times say, there are so many ways of being wrong and
+so few of being right, studying successes is more efficient."
+
+Hamming makes interesting observations about the doubling of knowledge every
+17 years and the analogous growth in the number of working scientists. I am
+slightly nervous about these numbers not because I question them but because
+beyond the early orders of growth I think we can't zoom out enough to take
+stock of the system. But his point is only that we will need to learn new
+things in our careers, which is undoubtedly true.
+
+There is continued focus on orders of growth but I remain uncomfortable with
+discussions that don't bound growth around the resources consumed to enable it.
+Anyway, Hamming's point isn't Silicon Valley transhumanist utopia. His point
+about focusing on fundamentals to be ready to both evaluate and incorporate
+new knowledge is a good one. Due to the growth in knowledge, we have to be
+very _selective_ about what investments to make as a modern worker.
+
+#+begin_src fundamental
+    In science, if you know what you are doing, you should not be doing it.
+
+    In engineering, if you do not know what you are doing, you should not be
+    doing it.
+#+end_src
+
+I am tempted to let this reinforce my belief that most software engineering
+roles these days are not, in fact, engineering at all. I am very suspicious
+that the shift (pronounced in the 10s and 20s) of automating
+_business processes_ and other informal and poorly understood systems to
+chase revenue, has no relation to the late 20th century production of more
+stable artifacts based on better defined problems. It does not help matters
+that the point of most businesses is to change in any way needed, including
+internal organization and processes, to grow and capture more market share.
+Seeing as most SaaS companies are targeting other businesses as customers,
+it is impossible to find a midpoint in requirements, there is no center.
+
+#+begin_src fundamental
+      Often it is not physical limitations which control but rather it is
+      human-made laws, habits, and organizational rules, regulations, personal
+      egos, and inertia which dominate the evolution to the future.
+#+end_src
+
+Really glad to hear Hamming touch on this point, whether because of how the
+current political landscape invades my thoughts, or because I'm in management
+these days and often thinking about things like the "thermocline of truth" or
+other ways that organizations make bad collective decisions.
+
+#+begin_src fundamental
+      In a lifetime of many, many independent choices, small and large, a
+      career with a vision will get you a distance proportional to _n_,
+      while no vision will get you only the distance n^2.
+#+end_src
+
+This is a great but challenging observation for me. When I was in my 20s, I
+was in the thrall of wanting to do work of some _significance_. In my late 30s,
+I'm very content to love my wife and our dogs and try to _experience_ life on
+earth and practicing kindness towards myself, which I find pretty difficult,
+rather than striving towards any particular level of accomplishment.
+
+In short, I don't know that I really _care_ about greatness any more. At least
+not individually. But I am very interested in how as a _culture_, it seems we
+no longer incentivize doing great work or accomplishing hard things as opposed
+to becoming wealthy (or wealthier). A poor motivator if the goal is innovation
+or any sort of enduring advancement.
+
+"No vision, not much of a future"
+
+This is a fair callout and I can agree that I should work harder to envision
+what I want to pursue.
+
+#+begin_src fundamental
+  In a sense this is a religious course. I am preaching the message that, with
+  apparently only one life to live on this earth, you ought to try to make
+  significant contributions to humanity rather than just get along through
+  life comfortably.
+#+end_src fundamental
+
+This is a noble admission and goal. But there are differences between 
+accomplishment and benevolence and between comfort and indulgence.
