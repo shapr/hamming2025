@@ -27,3 +27,21 @@ fundamentals firmly in mind when you design an equivalent.
 
 Science will (has?) become primarily simulation and modelling instead of physical experiments.
 And yet, simulations and models cannot be perfectly accurate!
+
+Engineering is becoming closer to Science, and vice versa
+
+Computers allow top managers to micromanage, and prevent middle
+managers from getting the experience required to become top managers.
+(is this happening with LLMs and junior/senior software developers?)
+
+Hamming points out that Russian central planning didn't go well for the people who depended on that system.
+(I gotta read all of Drucker and Deming, I'm certain this is relevant to their ideas of decentralization of authority for companies.)
+Hamming takes this further than I thought, he suspects that large companies will lose out to smaller companies.
+He says that will happen because smaller companies have less overhead and their top management is not distant from the "people on the spot".
+
+🤔 Ok, how do I measure this?
+- [ ] measure the the range of the size of the companies that make up the GDP of the USA by year since Hamming's prediction
+If Hamming is right, why are there still big companies at all?
+Maybe Hamming didn't consider that large companies could afford to purchase and consume their smaller competitors?
+
+This supports my idea that big companies purchase startups as a way to work around the big company rules against innovation and change.
