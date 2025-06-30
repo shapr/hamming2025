@@ -45,3 +45,16 @@ If Hamming is right, why are there still big companies at all?
 Maybe Hamming didn't consider that large companies could afford to purchase and consume their smaller competitors?
 
 This supports my idea that big companies purchase startups as a way to work around the big company rules against innovation and change.
+
+Computers and entertainment? Social media and streaming audio/video have eaten entertainment.
+
+Computers and the military? Drones and satellites, yeah?
+
+Computers and computers? We're at the top of the S curve for increasing speed and decreasing size.
+Parallel processing has become essential, though the most popular/common programming languages are bad at using multiple CPUs.
+GPUs have become the only general-purpose special-purpose chips.
+GPUs have changed from their massively parallel origins to parallel matrix multiplication.
+Perhaps we'll see a new S curve for basing our calculations on matrix multiplication?
+
+For that matter, the shape of the x86 computer has become the convention for general-purpose hardware.
+There are still a few general/special offerings like FPGAs, but not much else!
