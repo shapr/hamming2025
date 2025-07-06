@@ -1,0 +1,48 @@
+# notes for chapter 4 of Hamming on Hamming
+
+When can we fit a lifetime of unique music in a pocket? Will that kill streaming services?
+If you have all the music with you, then curation becomes the bottleneck? You find random cool things and send a link to your friends?
+
+When can we fit a lifetime of video in a pocket?
+
+When can we fit an entire recording of our lifetime in our pocket?
+
+Were the von Neumann reports published? I'd like to read them.
+
+Spaghetti code started with error correcting programs that were written with absolute binary addresses!
+
+Hamming had a girl who did his programming. She tried symbolic
+assembly programming and it was a big time saver. She later tried
+FORTRAN and it was even better! Even so, almost nobody else used these
+tools!
+
+#+begin_quote
+Almost all professionals are slow to use their own expertise for their own work.
+#+end_quote
+I feel so seen.
+#+begin_quote
+Consider how in the future, when you are a great expert, you will avoid this error.
+#+end_quote
+
+I will EXPLORE HARDER! I will try to AUTOMATE MY LIFE!
+
+- try BQN (APL)
+- find a local calendar system that will let me fire scripts at a certain time before an event.
+
+Switching to FORTRAN meant Hamming and his programmer could produce ten times as much as others were doing.
+#+begin_quote
+But to them, programming in FORTRAN was not for real programmers!
+#+end_quote
+
+#+begin_quote
+To see the obvious often takes an outsider or else someone like me who is *thoughtful and wonders what he is doing and why it is all necessary*.
+#+end_quote
+
+Think outside the local problem! THINK BIG!
+
+On to virtual machines !
+
+Maybe WASM is the first decent virtual machine? The JVM was ok. Wait, x86 is now a virtual machine too! It's not the real hardware underneath, it's the spec that the underneath hardware implements!
+#+begin_quote
+Computers are actually *symbol manipulators*.
+#+end_quote
