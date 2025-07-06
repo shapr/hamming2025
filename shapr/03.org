@@ -26,3 +26,21 @@ If the speed of light is the limitation, sounds like the goal is to produce ever
 Do today's computers have a diamond substrate, or some other amazing heat conductor? I wish my laptop's heat pipes dumped to a flat plate on the bottom, then I could add "external cooling" myself.
 
 I've seen computers go from 5 volts to 2.5 volts to even less, but I don't understand how that helps?
+
+#+begin_quote
+Once a boss says "no!" it's very hard to get a different decision, so don't let them say "No!" to a proposal.
+#+end_quote
+
+The speed of a computer doesn't matter, it's the number of *micro-nobel prizes* !
+
+#+begin_quote
+The purpose of computing is insight, not numbers.
+#+end_quote
+
+Big pile of stars for that quote. Ignore tools that do not increase your insight!
+
+#+begin_quote
+Are we machines?
+#+end_quote
+
+I kinda hope not, but maybe? I like to think we have free will?
