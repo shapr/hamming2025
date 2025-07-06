@@ -1,0 +1,28 @@
+# notes for chapter 3 of Hamming on Hamming
+
+Napier's bones were the first digital calculation tool, what are they?
+https://en.wikipedia.org/wiki/Napier's_bones from 1617 !
+
+based on "dissected multiplication tables" (insert confused emoji)
+
+The [[https://en.wikipedia.org/wiki/Difference_engine][difference engine]] is based on the idea that most functions can be calculated by polynomials.
+Wait is that how/why [[https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof][zkSNARKs]] and a bunch of other cryptographic tools function? I know there's a custom polynomial created for every program? right?
+I gotta finish the [[https://github.com/LeastAuthority/moonmath-manual][moon math manual]] someday.
+
+Babbage hadn't finished creating the difference engine before he thought of a NEW and MORE POWERFUL engine!
+Let this be a lesson to me, ship what you have and *then* work on the exciting new idea! Maybe Babbage needed Ritalin too?
+
+The atomic bomb was calculated using hardware from 1935, while that feels ancient, it was only ten year old hardware!
+Well, there was also some custom hardware involved, I wonder if I can find a description somewhere?
+
+#+begin_quote
+Our error was simply we thought only of the kinds of things we were
+currently doing and did not think in the directions of entirely new
+applications of the machines!
+#+end_quote
+
+If the speed of light is the limitation, sounds like the goal is to produce ever smaller transistors? I've heard trinary computers gives more ops in smaller space, is that true?
+
+Do today's computers have a diamond substrate, or some other amazing heat conductor? I wish my laptop's heat pipes dumped to a flat plate on the bottom, then I could add "external cooling" myself.
+
+I've seen computers go from 5 volts to 2.5 volts to even less, but I don't understand how that helps?
