@@ -46,3 +46,87 @@ Maybe WASM is the first decent virtual machine? The JVM was ok. Wait, x86 is now
 #+begin_quote
 Computers are actually *symbol manipulators*.
 #+end_quote
+
+How can I tell if a language is logical or psychological?
+
+#+begin_quote
+Logically APL is a great language and to this day it has its ardent devotees, but it is also not fit for normal humans to use.
+#+end_quote
+
+Wait, I just said I wanted to learn APL!
+
+#+begin_quote
+A change of a single letter in APL can completely alter the meaning, hence the language has almost no /redundancy/.
+But humans are unreliable and require redundancy; our spoken language tends to be about 60% redundant, while the written language is about 40% redundant.
+#+end_quote
+
+Soo, Hamming wouldn't much like Haskell? 🤔 I bet not. 😢
+
+#+begin_quote
+Thus you should judge a language by how well it fits the human animal as it is - and remember I include how they are trained in school,
+or else you must be prepared to do a lot of training to handle the new type of language you are going to use.
+#+end_quote
+
+Yeah, but every company has to train their people on the niche of the company? Maybe I just want to rationalize writing more Haskell. 😠
+
+In any case, this encourages me to learn the top however many popular languages so that I am easy to hire!
+
+Hamming expects by the year 2020 the expert in the field of the application would do the actual program preparation rather than experts in the computers. 𝍐 💀 Well, that prediction failed.
+
+I'd be happier if I have jobs with problem experts instead of solely computer experts. I think I've had four years of employment with problem experts in my past 29 years of programming employment.
+
+I like this idea of knowing how to efficiently design languages, but I've never seen any research in this area. I also wouldn't know how to search outside my programming language theory experience!
+
+I suspect we still don't understand language as it is used to communicate /understanding/ between humans!
+
+Hamming says programming is closer to writing a novel than it is to classical engineering, and I strongly agree.
+
+#+begin_quote
+while you would like to make programming resemble engineering, it will take a lot of time to get there - and maybe you really, in the long run, *do not want to do it*!
+#+end_quote
+
+This reminds me of Salvador Dali's comment, "computers are useless, they can only give you answers".
+
+
+INTERMISSION
+
+Jumping back to the history of hardware, if we completely run out of hardware speed ups, our society would have time to rewrite proprietary anything! Consider re-reading [[https://archiveofourown.org/works/9233966/chapters/20941043][Programmer at Large]].
+
+I'd love to own a computer that isn't controlled by a corporate management engine, where I can learn EVERYTHING about its internals!
+
+Ok, back to the chapter.
+
+#+begin_quote
+I have faith in only one [SDLC] which is never mentioned. /Think before you write the program!/ it might be called.
+Before you start, think carefully about the whole thing /including/ what will be your acceptance test to determine if it is right,
+as well as how later field maintenance will be done.
+#+end_quote
+hmmmmm
+#+begin_quote
+One trouble with much of programming is simply that often there is not a well defined job to be done,
+rather the programming process itself will gradually discover what the problem is!
+#+end_quote
+
+🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+Uh, that's every job in my past ~30 years of programming.
+
+#+begin_quote
+pay your good programmers very well, but regularly fire the poorer ones
+#+end_quote
+
+This would explain the continual layoffs in the tech industry, but golly sometimes I am a good programmer, and sometimes I'm a poor programmer.
+The difference comes down to how much support I get from the company.
+
+#+begin_quote
+I made the comparison of writing software with the act of literary writing;
+both seem to fundamentally depend on clear thinking.
+Can good programming be taught?
+If we look at the corresponding teaching of "creative writing" courses we find most students of such courses do not become great writers,
+and most great writers in the past did not take creative writing courses!
+Hence it is dubious that great programmers can be trained easily.
+#+end_quote
+
+Welllll, I think this bit of reasoning is suspicious.
+Teaching is a different skill from programming, so great programmers are not likely to be able teach well.
+In my experience, the only successful teaching strategy for programming I've seen is master/journeyman, also known as pair programming.
