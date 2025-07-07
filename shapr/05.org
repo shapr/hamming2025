@@ -1,0 +1,68 @@
+# notes for chapter 5 of Hamming on Hamming
+
+A scientist must both find new things and *communicate* those new things!
+
+- writing papers and books
+- prepared public talks
+- impromptu talks
+
+I'm gonna say blog posts have replaced papers and books, for me at least.
+
+Although, now that you mention it, I don't know the requirements for
+submitting a paper to the arXiv, perhaps I should try it!
+- [ ] find out requirements for submitting a paper to the arXiv
+- [ ] consider the difference between a paper and a blog post
+
+Practice giving talks that the audience wants to hear, not just talks you want to give!
+
+Even a talk with the goal of transmitting scientific understanding to an audience should not be dull.
+
+Preparing these talks kept Hamming up to date on the topics he shared over the years. I do this!
+
+- [ ] find Raymond Lull's "computer" parodied in Gulliver's Travels
+
+prove beyond any shadow of a doubt that the new thing can cope with heroic tasks before it can into routine tasks
+
+#+begin_quote
+mass production of a variable product
+#+end_quote
+
+Every letter printed on a page is also this, also electronics assembly with pick'n'place machines, firmware loaded onto an FPGA, and so much more.
+
+(oh hey, 3d printers are the perfect example! maybe cloud computing?)
+
+Will this end at some point? Will our society stagnate and we'll produce more of the same?
+
+PostScript fonts became opentype fonts, so maybe there is a small trend going from a variable product to more static outputs? 🤔
+
+#+begin_quote
+I should organize things so that I could cope with most of the problems that would arise in the next year,
+while at the same time, not knowing what, in detail, they would be.
+#+end_quote
+
+How can I do this now, for my job?
+Look for trends, figure out what hardware and software will support those trends, and make bets for the future?
+Kubernetes using Nix?
+
+The next part talks about writing a software tool that paid off in the next year, sounds like the approach I could use.
+
+Interactive computing lets you find problems before the end of the process. Debugging, etc? I wonder if 3d printers have some feedback like this?
+
+Oh, I bet I could use my [[https://github.com/Architeuthis-Flux/JumperlessV5/][jumperless v5]] to write tests for circuits! Same sort of fast feedback for error checking. I think this extends further to type systems and more.
+
+This section on incrementally integrating many concurrently created changes matches [[https://github.com/bors-ng/bors-ng][bors-ng]] and the whole idea of merge queues!
+
+There's a big emphasis on general purpose hardware at the end of this chapter, and it's recommended that you use what everyone else is using so you can benefit from their bug reports and fixes.
+I'd say we've hit that same point with software as well.
+
+#+begin_quote
+As you go on in your careers, you should examine the applications which succeed and those which fail;
+try to learn how to distinguish between them;
+try to learn the situations which produce successes and those which almost guarantee failure.
+Realize, as a general rule, it is not the same job which you should do with a machine, but rather an equivalent one,
+and do it so then, future flexible expansion can be easily added.
+#+end_quote
+
+I think this describes the failure of android and apple phones. Both systems punish any sort of integration between apps from their app store.
+
+Next chapter starts AI!
