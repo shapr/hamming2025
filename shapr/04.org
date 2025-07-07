@@ -7,7 +7,7 @@ When can we fit a lifetime of video in a pocket?
 
 When can we fit an entire recording of our lifetime in our pocket?
 
-Were the von Neumann reports published? I'd like to read them.
+Were the von Neumann reports published? I'd like to read them. ( later [[https://people.csail.mit.edu/brooks/idocs/VonNeumann_EDVAC.pdf][found it]], are there more reports?)
 
 Spaghetti code started with error correcting programs that were written with absolute binary addresses!
 
