@@ -1,0 +1,44 @@
+# notes for chapter 6 of Hamming on Hamming
+
+#+begin_quote
+Can Machines Think?
+#+end_quote
+
+As of 2025, I'm gonna say no.
+
+#+begin_quote
+you cannot afford to believe or disbelieve -
+you must come to your own terms to the vexing problem "to what extent can machines think?"
+#+end_quote
+Ok, fine, we're building an equivalent output, not the same as what a human would have done.
+#+begin_quote
+Can we produce programs that will produce 'thinking' from a von Neumann machine?
+#+end_quote
+For some value of thinking, sure.
+#+begin_quote
+I would prefer to ask the question "Of all life's burdens, what are those that machines can relieve, or significantly ease for us?"
+#+end_quote
+Ok, I like this one! I want computers to make my life easier and better!
+
+Computers are chess masters now! Monte Carlo Tree Search, I think was used?
+
+- heuristic :: to invent or discover
+
+The checkers playing program used a weighing function for making decisions with a bunch of checkers specific tactics.
+When the program played itself, it adjusted its weights to play better. After many iterations, it was able to beat a state champion checkers player.
+
+#+begin_quote
+Is it not fair to say, "The program learned from experience"?
+Your immediate objection is there was a program telling the machine how to learn.
+But when you take a course in Euclidean geometry, is not the teacher putting a similar program in you?
+#+end_quote
+
+Sounds reasonable to me?
+
+#+begin_quote
+You must struggle with your own beliefs if you are to make any progress in understanding the possibilities and limitations of computers in the intellectual arena.
+#+end_quote
+
+Until recently, I have been strongly against the purely social limitations of tech progress. Now that LLMs are owned, operated, and fiercely promoted by oligarchs, I've switched sides.
+
+I will continue to learn about the current state of "AI" but I hope it doesn't end with LLMs.

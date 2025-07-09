@@ -27,6 +27,7 @@ Do today's computers have a diamond substrate, or some other amazing heat conduc
 
 I've seen computers go from 5 volts to 2.5 volts to even less, but I don't understand how that helps?
 
+Keith Frost says: you can model a circuit as resistor. Higher voltage creates more resistance, and thus more heat. Keith says "I think with the square of the voltage".
 #+begin_quote
 Once a boss says "no!" it's very hard to get a different decision, so don't let them say "No!" to a proposal.
 #+end_quote
