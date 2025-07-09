@@ -1,0 +1,72 @@
+# notes for chapter 7 of Hamming on Hamming
+
+AI is the intellectual equivalent of robots? 🤔 That's a pretty cool idea.
+
+But I'd call that IA, intelligence augmentation.
+
+From the IA viewpoint, I want proof assistants and that kind of thing.
+That is, I want tools that amplify me.
+
+Would that me crutches for my brain? I guess anything that helps me go faster and still be correct? I like strong type systems for that.
+
+I'm fine with brute force explorations looking for solutions, but would prefer IA that exposes insight that I can use.
+I want a feedback loop between me and my IA assistants, where we boost each other via shared insight.
+
+#+begin_quote
+/From large organizations new effects can arise./
+#+end_quote
+
+Hamming suggests that human thinking may only appear when the underlying machine is "large enough". I guess that's like sound waves requiring sufficient density of gas molecules?
+
+- [ ] finish reading [[https://en.wikipedia.org/wiki/Thinking_In_Systems%3A_A_Primer][Thinking in Systems]] for a more nuanced take on the concept above
+
+Hm, can I show I have originality? [[https://github.com/shapr/markovkeyboard/][Yes]], but maybe not more than once?
+
+#+begin_quote
+Many people now have digitally recorded music players
+#+end_quote
+
+Yes, and I still prefer live music. Perhaps because of infrasound? Even my expensive speakers just aren't as good as hearing a cello in person. Maybe I'll get old enough to lose that resolution?
+
+While it's true human performances are imperfect, each performance is a new attempt at producing what they imagine.
+When I collect multiple live performances of the same song, I am chasing a higher resolution view of the evolving dream of the creator/performer.
+
+Music listening as theory building? 😃
+
+Oh look, Hamming also wants to see what humans and computers can do in cooperation rather than competition! I believe that's the best future for AI, IA!
+
+If a doctor makes a mistake, they are forgiven, because they are only human. If a machine makes a mistake, who do you sue? Obviously not Facebook or Google, that would be heresy!
+
+Dead robots is not the same as dead humans. Hm, I don't see a connection to AI. Oh, maybe it's AI used to drive robots that do firefighting or other dangerous things?
+#+begin_quote
+The [chess] computers are now examining millions of board positions per second,
+while humans typically examine 50 to 100 at most before making a move [...]
+what the human mind does when playing chess is another matter! We really do not know!
+#+end_quote
+
+I agree. Like I said when I went to a week long camp at MIRI, I don't think humans have much understanding of how humans think.
+
+#+begin_quote
+machine plays may be said to be "to solve the problem by volume of computations" rather than by insight
+#+end_quote
+
+Human games can be hard for computers, but I certainly couldn't draw a single frame of DOOM by hand. I don't know where this thought is going 🦬
+
+Logical vs psychological novelty, that makes sense to me. That's much of why I write blog posts. I'm sure what I write is known by many, but it might not be new and valuable to someone who reads my blog.
+
+Free will is a myth, you are just a machine, but how to test that? uhhh?
+
+#+begin_quote
+/perhaps thinking should be measured by not by what you do but how you do it/
+When I watch a child learning how to multiply two, say three digit numbers, then I have the feeling the child is thinking
+[...]
+When a computer does the same multiplication, I do not feel it is thinking at all
+#+end_quote
+
+ok, this is EXACTLY [[https://ratfactor.com/cards/naur-vs-llms][programming as theory building]] !
+
+This also matches what Dana Scott/Joseph Stoy say in [[https://mitpress.mit.edu/9780262690768/denotational-semantics/][denotational semantics]] where they say roughly "a function is far too large to fit more than a tiny subset into a computer".
+
+That is, a human can build a mental model of the 'function' of multiplication, while a computer does not.
+
+I'm gonna say the "how you do it" is "Are you memorizing key value pairs, or are you assembling a theory / mental model and I will firmly say that a theory is more general purpose.
