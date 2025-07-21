@@ -1,0 +1,29 @@
+# notes for chapter 10 of Hamming on Hamming
+
+Transmission of data through space is the same as transmission of data through time. (insert joke about the bandwidth of a truck full of drives)
+
+Hamming seems disappointed about Shannon's theory of information, saying it should be theory of communication. I don't understand why. Seems to me it's the right thing?
+
+You can get a unique decoding if no symbol is the prefix of any other symbol.
+
+- [ ] What's McMillan's Theorem?
+- [ ] What's the Kraft inequality?
+  I sort of get it, but not enough to understand why it says there can't be too many short codes or the length will be too long 🤔
+
+I know all of 'now' is binary, I wonder if the long dead Soviet trinary systems would be better for code symbol density? I vaguely recall reading something like that decades ago?
+
+- [ ] I didn't quite the proof of McMillan's Theorem, I gotta re-read this section and DO THE MATH! Kraft was easy, McMillan wasn't immediately easy for me.
+
+#+begin_quote
+If the Kraft sum is less than 1 then there is excess signalling since another symbol could be included,
+or some existing one shortened and thus the average code length would be less.
+#+end_quote
+
+I'd restate that as: use all the signalling capacity available to you!
+
+Surprise philosophy!
+
+Communicating ideas to others requires different words depending on the listener.
+
+While Hamming talks about noise on the channel, I would instead say I share different symbol dictionaries with each person.
+Furthermore, conversational negotiation is where I attempt to find shared symbol dictionaries. (English? Reading? Computer? Math?)
