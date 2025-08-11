@@ -1,0 +1,31 @@
+# notes for chapter 14 of Hamming on Hamming
+
+#+begin_quote
+People would not convert to oscilloscopes
+#+end_quote
+What came before?
+
+Hamming saw these non-converts as a social loss, and decided to do something about it *right then*.
+
+My lesson learned: train yourself and train your coworkers.
+Try new things and write about the trade-offs encountered.
+
+(for example, [[https://jj-vcs.github.io/][jujutsu]] being so much easier to teach than git)
+
+Hamming decided digital logic was the future, and set out to convince an expert to write about that.
+He instead ended up writing the book himself, because the expert was too busy researching.
+One lesson I see is that writing about your research is as important as the research itself.
+It's no good if you find something awesome but no else learns that!
+
+#+begin_quote
+Doing what needed to be done,
+though I did not want to do it,
+paid off handsomely in the long term!
+#+end_quote
+There's a great lesson for me!
+
+#+begin_quote
+Any /complete set of functions/ will do about as well as any other for representing
+arbitrary functions.
+#+end_quote
+What? Where do I read about this?!

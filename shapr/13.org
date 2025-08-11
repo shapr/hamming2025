@@ -1,0 +1,37 @@
+# notes for chapter 13 of Hamming on Hamming
+
+Information is "surprise"
+
+Uses the negative log of the probability, but why?
+
+Unexpected events have the most 'information content'.
+
+What you learn from each independent event, when added together,
+should be the probability of what you learn from the combined events.
+
+- [ ] What's the *Cauchy functional equation* ?
+  aha [[https://en.wikipedia.org/wiki/Cauchy%27s_functional_equation][Cauchy's functional equation]] on wikipedia.
+
+Hamming says this should be called Communication Theory instead of Information Theory.
+I disagree, but maybe the meaning I learned for those words has changed because of Shannon?
+
+Oh, this reminds me of a paper I found about doing forward error correction with internet protocols.
+- [X] [[https://www.cs.utexas.edu/~lam/395t/2010%20papers/FEC-rizzo.pdf][Effective Erasure Codes for Reliable Computer Communication Protocols]] (found!)
+
+#+begin_quote
+If there is at least one other original message point in the sphere about your received point
+then it is an error, because you cannot decide which one it is.
+#+end_quote
+
+Clearly I am missing the whole point of this section, cause I just don't get this at all.
+
+#+begin_quote
+Shannon /averaged over all possible codebooks/ to find the average error.
+#+end_quote
+
+Why? I think I figured this out at some point, but I've forgotten now!
+
+Information theory can be used to get what you want.
+Initial definitions shape conclusion.
+
+Story about fishing with a net, and then deciding that fish don't get smaller than the holes in the net. 😎
