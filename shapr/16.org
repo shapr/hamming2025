@@ -1,0 +1,24 @@
+# notes for chapter 16 of Hamming on Hamming
+
+Hamming almost came up with the FFT.
+
+He says he didn't because it wouldn't work on the first computer he tried it on, and he didn't think to revisit it later on a computer where it would work.
+
+#+begin_quote
+When you say something is not possible, do not say it again at a later date unless you review *why* it was impossible.
+#+end_quote
+This is why I enjoy working with junior devs, my ancient learning about what was impossible gets active questioning!
+
+- power spectra :: the frequencies of the input and output?
+
+These were used by Bohr to understand how atoms are structured?
+Wait what? This sounds like an amazing tool, and it's related to digital filters?
+I think it's this? https://en.wikipedia.org/wiki/Spectral_density
+
+Oh hey, white noise means "mostly in the lower frequencies" ?!
+
+This chapter is connecting a bunch of things I've thought about shallowly. I could stand to re-read this a few times and pick up the background.
+
+Hamming talks about removing parts of the data for statistical reasons, that no one understands? Is that still done? Has that changed?
+
+Ok, I'm convinced that digital filters are one specific instance of a bigger better tool, but I don't know much beyond "go learn linear algebra".

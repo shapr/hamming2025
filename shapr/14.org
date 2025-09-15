@@ -29,3 +29,33 @@ Any /complete set of functions/ will do about as well as any other for represent
 arbitrary functions.
 #+end_quote
 What? Where do I read about this?!
+
+Ok, but even so, Hamming points out that if that's true, why are we using the Fourier series?
+
+He says we're using time invariant because there's no natural origin of time.
+Trig functions are "the eigenfunctions of translation in both Fourier series and Fourier integrals" 🤔
+Yet again, I wish I knew more basic math. Maybe I can bribe a friend to teach me? (yes, but motivationally expensive)
+
+#+begin_quote
+[...] /linear systems/ have the same eigenfunctions -- the complex exponentials which are equivalent to the real trigonometric functions
+#+end_quote
+
+but also Nyquist's Theorem
+
+#+begin_quote
+the famous /transfer function/ is exactly the eigenvalues of the corresponding eigenfunctions
+#+end_quote
+
+Yeah, I gotta spend more time doing math 😢
+
+I like Hamming's story about using aliasing to sample high frequencies.
+Can I record high frequency sound on my computer and play it back lower with this trick? How would I do this?
+
+- [ ] what are ~complex exponentials~ ?
+- [ ] what are eigenvectors and eigenfunctions?
+  - [ ] read about linear algebra, keith says it's in there
+- [ ] Nyquist sampling - twice the highest frequency you want to sample
+  - [ ] what was that "get around nyquist" trick I heard about at the HSV makerspace?
+
+A digital filter is like a moving window on top of the data.
+That window is used to calculate the changed output signal.

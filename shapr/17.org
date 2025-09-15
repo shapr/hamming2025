@@ -1,0 +1,7 @@
+# notes for chapter 17 of Hamming on Hamming
+
+recursive filters might NOT be stable, gotta be careful if you want vaguely predictable recursive filters.
+
+#+begin_quote
+moral: work on problems you think will be important
+#+end_quote

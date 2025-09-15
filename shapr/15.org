@@ -1,0 +1,47 @@
+# notes for chapter 15 of Hamming on Hamming
+
+#+begin_quote
+Typically a single order of magnitude change (a factor of 10)
+produces fundamentally new effects.
+#+end_quote
+
+#+begin_quote
+filter decomposes the input signal into all its frequencies,
+multiplies each frequency by its corresponding eigenvalue (the transfer function),
+and then adds all the terms together to get the output
+#+end_quote
+
+#+begin_quote
+An ideal filter has a sharp cutoff between the frequencies it passes exactly
+#+end_quote
+
+and yet, a perfect cutoff would require an infinite number of fourier terms.
+
+- Gibbs phenomena :: trying to model a discontinuity with any number of fourier terms leads to overshoot, I think?
+
+Sounds like any discontinuity will cause inaccuries when modelled by continuous functions?
+Didn't Hamming earlier say that any set of functions can model, uh, something else? (what did he say?)
+
+aha
+#+begin_quote
+Any /complete set of functions/ will do about as well as any other for representing
+arbitrary functions.
+#+end_quote
+
+So, which thing is correct?
+
+So, Gibbs phenomena applies to any set of continuous functions.
+Some derivatives are continuous? And this affects something.
+
+So Lanczos tried to hack around the Gibbs phenomena with a "boxcar window" (I think it's https://en.wikipedia.org/wiki/Window_function#Rectangular_window ? )
+
+Taylor series convergence is controlled by singularities in the complex plane.
+
+BUT WAIT, is convergence about how well one set of functions can represent another? I'm missing a bunch of background context here.
+
+#+begin_quote
+A filter is the convolution of one arry by another,
+which in turn is merely the multiplication of the corresponding functions!
+#+end_quote
+
+Oh wait, convergence with the von Hann window is faster, uh, smoother, so I bet convergence means "amount of error" when smoothing?
