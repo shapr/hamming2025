@@ -1,0 +1,60 @@
+# notes for chapter 27 of Hamming on Hamming
+
+Unreliable data
+
+#+begin_quote
+There is never time to do the job right, but there is always time to fix it later.
+#+end_quote
+
+Hm, go fast and try to do the right thing?
+
+*Many* times Hamming found inconsistencies in data to be
+ analyzed. Even the hardware used for measuring needed to be taken
+ apart and rebuilt to get consistent results.
+
+[[https://danluu.com/nothing-works/][Why is is so hard to buy things that work well?]] -- Dan Luu
+
+Basic scientific data is also unreliable!
+The change in constants is constantly changing?
+
+Later he points out that new equipment is tuned until it produces
+consistent low variance results, then the data is handed to a
+statistician who returns low variance results.
+
+Hamming's rule:
+#+begin_quote
+90% of the time the next independent measurement will fall outside the
+previous 90% confidence limits!
+#+end_quote
+
+Yeah, I can dig it.
+
+Hamming was on the Board of Directors for a computer company.
+The company made a careful estimate of costs of new models.
+Sales estimated they could sell 10 units at one price, 15 or 20 at other prices.
+The uncertainty of sales' guesses was ignored.
+
+Careful and thorough estimates are blended with wild ass guesses, and everyone just hopes it'll work out!
+
+Definitions of what is being measured also changes over time.
+
+Today's "poverty" is quite possibly more luxurious than the daily life of middle ages' Kings of England.
+
+#+begin_quote
+Institutions like people, tend to move only when forced to.
+#+end_quote
+
+My solution to this is to practice my own change!
+
+Two weeks ago I switched my trackball to my left hand, since it's been
+two years since I switched to right handed trackball.
+
+My housemate finds it almost impossible to use the trackball left
+handed, and mostly uses their right hand on it anyway!
+
+The moral of the story: only experts should design surveys, and you're probably not an expert.
+
+A better moral is:
+#+begin_quote
+Small samples carefully taken are better than large samples poorly done.
+#+end_quote

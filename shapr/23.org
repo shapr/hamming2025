@@ -1,0 +1,5 @@
+# notes for chapter 23 of Hamming on Hamming
+
+Mathematics!
+
+I like formal proofs, but I can understand where Hamming is coming from.

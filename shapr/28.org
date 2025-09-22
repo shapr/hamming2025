@@ -1,0 +1,56 @@
+# notes for chapter 28 of Hamming on Hamming
+
+Systems Engineering
+
+Instructors may says "I'm teaching students calculus" but the real goal is:
+#+begin_quote
+I am going to educate the students and prepare them for their future careers.
+#+end_quote
+
+What's your system? I mean YOU! What's the global goal of you, the system?
+
+#+begin_quote
+Systems engineering is the attempt to keep at all times the larger goals in mind and to translate local
+actions into global results. /But there is no single larger picture./
+#+end_quote
+
+This is a hard idea to integrate. I don't have enough context to do global optimization!
+
+#+begin_quote
+If you optimize the components you will probably ruin the system performance.
+#+end_quote
+I don't know how to apply this to my daily work, but it seems important?
+
+Hamming uses this to say "Testing a student at the end of each course is local optimization" and thus does not *educate* the student!
+He points to many specifics that are skipped until they become relevant, like complex numbers.
+
+Hamming's second rule of systems engineering:
+#+begin_quote
+Part of systems engineering design is to prepare for changes so they
+can be gracefully made and still not degrade the other parts.
+#+end_quote
+I'm gonna say that's where gnu autotools will be surprisingly useful in the future.
+That is, there will be a breaking change at some point, and autotools will be easily updated to handle that, but other software in that role will not.
+
+Rule 3:
+#+begin_quote
+The closer you meet specifications the worse the performance will be when overloaded.
+#+end_quote
+And a bit later
+#+begin_quote
+Hence good design generally includes the graceful decay of performance
+when the specifications are exceeded.
+#+end_quote
+Maybe that's why Ethernet beat out Token Ring? 🤔
+
+Oh hey, I bought this book [[https://us.artechhouse.com/Systems-Engineering-Principles-and-Practice-P2022.aspx][One Man's Systems Engineering]] but I still haven't read it!
+
+Hammings makes several references to Westerman's writings, gotta read that!
+
+#+begin_quote
+I said it before, but let me say it again, a solution which does not
+provide greater insight than you had when you began is a poor solution
+indeed, but it may be all that you can do given the time constraints
+of the situation.
+#+end_quote
+Yeah, I've built these :-(

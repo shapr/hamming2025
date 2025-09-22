@@ -1,0 +1,13 @@
+# notes for chapter 26 of Hamming on Hamming
+
+Experts
+
+Age is a handicap for solving problems. Start early! Solve often!
+
+Students accept problems with implicit assumptions, limiting their ability to solve them.
+
+Sounds like Hamming says the implicit assumptions define the paradigm of the field at the time.
+
+Big improvements to a field of research rarely come from within that field.
+
+If/when you become the expert, try not to stifle innovation!

@@ -1,0 +1,27 @@
+# notes for chapter 29 of Hamming on Hamming
+
+You Get What You Measure
+
+#+begin_quote
+The rating system in its earlier stages may tend to remove exactly those you want at a later stage.
+#+end_quote
+
+I think about this often, as someone who did badly my first time in university. (1.2 GPA?)
+After about fifteen years of a software career, I went back to finish my bachelor's degree.
+At that point, I did not care any at all about my grades, but instead about soaking up as much learning as I possibly could.
+Optimizing for learning and understanding got me on the Honor Roll, and almost got me the very highest grades, entirely by accident!
+
+I could write a whole series of blog posts about the three years I spent getting a bachelor's degree twenty years after graduating from high school.
+
+#+begin_quote
+Although measuring is clearly bad when done poorly, there is no escape
+from making measurements, rating things, people, etc. Only one person
+can be the head of an organization at one time, and in the selection
+there has to be a reduction to an simple scale of rating so a
+comparison can be made.
+#+end_quote
+:-( much sadness, but I dunno how to change this
+
+This whole chapter is rough, managers want to look good instead of give accurate figures, so upper management just doesn't know.
+
+This points back to Hamming's earlier description of jazz band sized companies, eight people would make it harder to misreport? I hope?

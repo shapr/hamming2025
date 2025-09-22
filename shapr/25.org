@@ -1,0 +1,67 @@
+# notes for chapter 25 of Hamming on Hamming
+
+Creativity!
+
+I think creativity / originality is being able to transfer knowledge / understanding / patterns of thought from one area to another.
+
+If you want to do something no one has ever done before, shuffle a
+deck of cards. All possible decks are 52 factorial, it's likely you'll
+end up one that hasn't existed in physical cards.
+
+creativity, should include /value/ ? but to whom?
+
+(I suggest reading [[https://openlibrary.org/books/OL38791133M/Art_and_Fear][Art and Fear]] to clarify your own thoughts here)
+
+This next section about genetics and continental drift suggests originality and novelty aren't appreciated until they're applied to do something of value to humans?
+
+#+begin_quote
+Creativity seems, among other things, to be “usefully” putting
+together things which were not perceived to be related before
+#+end_quote
+
+Yeah, that!
+
+Hamming says individual creativity can be improved, but says he has no real suggestions.
+
+I disagree, isn't this whole book demonstrating how he applied his own creativity?
+Seems like he's saying, prepare your mind by learning a bunch, then deeply understand a problem, then try to think up ways to make things easier/better, and don't settle for your first result?
+
+1. recognize the problem
+2. refine the problem - don't hurry with this
+   Hamming says this "requires /emotional involvement/ ", but I'm not convinced.
+   1. optionally, drop the problem for sometime
+3. insight! idea might be flawed, but could be refined? optionally return to step 2 or 2a
+
+Aha, one of my favorite bits of wisdom from this book!
+This approach has solved many problems for me:
+#+begin_quote
+When stuck I often ask myself, “If I had a solution, what would it
+look like?”
+#+end_quote
+
+Yet again, "Luck favors the prepared mind".
+
+Get down to the fundamentals!
+
+#+begin_quote
+In the past I have deliberately managed myself in this matter by
+promising a result by a given date, and then, like a cornered rat,
+having at the last minute to find something! I have been surprised at
+how often this simple trick of managing myself has worked for me.
+#+end_quote
+
+This has failed for me rather often. Working directly with someone
+else on a project, that always works for me!
+
+You must change yourself to be more creative!
+
+#+begin_quote
+We are, in a very real sense, the sum total of our habits, and nothing
+more; hence by changing our habits, once we understand which ones we
+should change and in what directions and understand our limitations in
+changing ourselves, then we are on the path along which we want to go.
+#+end_quote
+
+This I agree with strongly, it also matches [[https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does][The purpose of a system is what it does]].
+
+Don't get stuck on a problem!
